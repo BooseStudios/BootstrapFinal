@@ -21,7 +21,7 @@
 }
 
 body{
-    background-color: #2397E8;
+    background-color: #57DFFF;
     color: white;
     font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
 }
@@ -30,10 +30,10 @@ footer{
 }
 
 .container{
-    background-color: #5927FF;
+    background-color: #449CE8;
 }
 .jumbotron{
-    background-color: #5927FF;
+    background-color: #449CE8;
     color: black;
 }
 
